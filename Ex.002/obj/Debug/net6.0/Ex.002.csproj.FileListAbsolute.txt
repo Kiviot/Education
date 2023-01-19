@@ -1,0 +1,15 @@
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/bin/Debug/net6.0/Ex.002
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/bin/Debug/net6.0/Ex.002.deps.json
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/bin/Debug/net6.0/Ex.002.runtimeconfig.json
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/bin/Debug/net6.0/Ex.002.dll
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/bin/Debug/net6.0/Ex.002.pdb
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.csproj.AssemblyReference.cache
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.AssemblyInfoInputs.cache
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.AssemblyInfo.cs
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.csproj.CoreCompileInputs.cache
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.dll
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/refint/Ex.002.dll
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.pdb
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/Ex.002.genruntimeconfig.cache
+/Users/evgenijteppe/Documents/Education/GIT/Education/Ex.002/obj/Debug/net6.0/ref/Ex.002.dll
